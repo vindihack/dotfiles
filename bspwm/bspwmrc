@@ -35,3 +35,6 @@ feh --bg-fill /home/vindicare/Imágenes/fondo.jpg
 
 # Lanzamiento de polybar
 ~/.config/polybar/./launch.sh
+
+# Refresco final de bspwm tras la carga
+
