@@ -2,7 +2,6 @@
 
 feh --bg-fill /home/vindicare/Imágenes/fondo.jpg
 ~/.config/polybar/./launch.sh
-xrandr -s 1920x1080
 
 pgrep -x sxhkd > /dev/null || sxhkd &
 
